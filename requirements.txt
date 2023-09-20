@@ -29,8 +29,8 @@ numexpr
 # psycopg2
 # pgvector
 
-numpy~=1.24.4
-pandas~=2.0.3
+numpy==1.23.0
+pandas==1.5.3
 streamlit>=1.26.0
 streamlit-option-menu>=0.3.6
 streamlit-antd-components>=0.1.11
